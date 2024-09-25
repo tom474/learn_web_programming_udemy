@@ -7,8 +7,8 @@ const API_URL = "https://secrets-api.appbrewery.com";
 
 const yourUsername = "emsignouc";
 const yourPassword = "123456789";
-const yourAPIKey = "abc123";
-const yourBearerToken = "abc123";
+const yourAPIKey = "94912620-6f5d-4386-ba9e-90b5ab737bc0";
+const yourBearerToken = "ae2e8eb5-e430-40bf-960e-828b76225cbf";
 
 app.get("/", (req, res) => {
 	res.render("index.ejs", { content: "API Response." });
