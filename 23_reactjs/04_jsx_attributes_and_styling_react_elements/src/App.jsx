@@ -1,3 +1,5 @@
+import React from "react";
+
 const image = "https://picsum.photos/200";
 
 function App() {

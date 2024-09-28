@@ -1,3 +1,5 @@
+import React from "react";
+
 const customStyle = {
 	color: "red",
 	fontSize: "20px",

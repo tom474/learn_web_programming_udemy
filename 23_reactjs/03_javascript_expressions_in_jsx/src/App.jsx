@@ -1,3 +1,5 @@
+import React from "react";
+
 const firstName = "Cuong";
 const lastName = "Tran";
 const luckyNumber = 8;
